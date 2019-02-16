@@ -2234,7 +2234,7 @@ blockquote small:before{
     color:#555
 }
 #map{
-    height:300px;
+    height:650px;
     width:100%;
     background-color:grey;
     overflow-y:hidden;
